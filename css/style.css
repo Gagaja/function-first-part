@@ -1,0 +1,258 @@
+*{
+    box-sizing: border-box;
+}
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+    color: #015226;
+    font-weight: 500;
+}
+.txt-bold {
+    margin-top: 10px;
+    font-weight: 700;
+}
+
+
+/***** HEADER ****/
+
+
+
+
+/***** ZADATAK JEDAN****/
+
+
+.main-title{
+    text-align: center;
+    font-size: 45px;
+    color: #015226;
+    font-weight: bold;
+}
+
+.zadatak1{
+    width: 100%;
+    min-height: 250px;
+    background: #28c0fc;
+    text-align: center;
+    padding: 5px 0;
+    border-bottom: 1px solid #5e5e5e;
+    
+}
+
+.zadatak1>.section{
+   width: 300px;
+   min-height: 100px;
+    margin: auto;
+    padding-top:15px ;
+    border: 2px dashed #015226;
+}
+.zadatak1>.section>p{
+    font-size: 20px;
+    color: #015226;
+    font-weight: 500;
+}
+.btn{
+    border: 1px solid #015226;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    color: #015226;
+    transition: 1s,1s;
+}
+.btn:hover{
+    background: #015226;
+    color: #fff;
+}
+
+
+
+
+
+
+/***** Poluprecnik  ***/
+
+.zadatak3 {
+    width: 100%;
+    min-height: 250px;
+    background: #fda22c;
+    text-align: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #5e5e5e;
+    
+}
+.zadatak3>.section{
+    width: 300px;
+    min-height: 100px;
+     margin: auto;
+     padding-top:15px ;
+     border: 2px dashed #015226;
+ }
+#zadatak3 label{
+    font-size: 18px;
+    color: #015226;
+    font-weight: 500;
+}
+#poluprecnik{
+    border: 1px solid #015226;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    color: #015226;
+    padding: 7px;
+    width: 200px;
+
+}
+#zadatak3 .btn{
+    padding: 7px 21px;
+}
+
+/***** Dinari  ***/
+
+
+.zadatak4 {
+    width: 100%;
+    min-height: 250px;
+    background: #ff5858;
+    text-align: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #5e5e5e;
+    
+}
+.zadatak4>.section{
+    width: 300px;
+    min-height: 100px;
+     margin: auto;
+     padding-top:15px ;
+     border: 2px dashed #015226;
+ }
+#zadatak4 label{
+    font-size: 18px;
+    color: #015226;
+    font-weight: 500;
+    
+   
+    
+}
+#dinari{
+    border: 1px solid #015226;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    color: #015226;
+    padding: 7px;
+    width: 200px;
+}
+
+#zadatak4 .btn{
+    padding: 7px 21px;
+}
+/*****  Evri ****/
+
+.zadatak5{
+    width: 100%;
+    min-height: 250px;
+    background: #ce63ff;
+    text-align: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #5e5e5e;
+    
+}
+.zadatak5>.section{
+    width: 300px;
+    min-height: 100px;
+     margin: auto;
+     padding-top:15px ;
+     border: 2px dashed #015226;
+ }
+#zadatak5 label{
+    font-size: 18px;
+    color: #015226;
+    font-weight: 500;
+    
+   
+    
+}
+#evro{
+    border: 1px solid #015226;
+  
+    margin-bottom: 10px;
+    border-radius: 5px;
+    color: #015226;
+    padding: 7px;
+    width: 200px;
+}
+
+#zadatak5 .btn{
+    padding: 7px 21px;
+}
+
+
+/***** Pozdrav ****/
+
+.zadatak6{
+    width: 100%;
+    min-height: 250px;
+    background: #f0e43e;
+    text-align: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #5e5e5e;
+    
+}
+.zadatak6>.section{
+    width: 300px;
+    min-height: 100px;
+     margin: auto;
+     padding-top:15px ;
+     border: 2px dashed #015226;
+ }
+ #pozdrav{
+    font-size: 22px;
+    color: #015226;
+    font-weight: bold;
+}
+.paragraf::after{
+    content: '☺';
+    font-size: 45px;
+    color: #015226;
+}
+/***** Godine ****/
+
+.zadatak7{
+    width: 100%;
+    min-height: 250px;
+    background: #c558f8;
+    text-align: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #5e5e5e;
+    
+}
+
+#zadatak7 label{
+    font-size: 20px;
+    color: #015226;
+    font-weight: 500;
+    
+   
+    
+}
+
+.zadatak7>.section{
+    width: 300px;
+    min-height: 100px;
+     margin: auto;
+     padding-top:15px ;
+     border: 2px dashed #015226;
+ }
+ #godina-rodjenja{
+    border: 1px solid #015226;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    color: #015226;
+    padding: 7px;
+    width: 200px;
+ }
+#zadatak7 .btn{
+    padding: 7px 21px;
+}
+
